@@ -1,5 +1,7 @@
 # TAPIR-ANALYSIS
-EL OBJETIVO DE ESTE PROYECTO ES MODELAR LA DISTRIBUCION DEL TAPIR ANDINO (Tapirus pinchaque), mediante tecnicas de modelacion de nichos ecologicos.
-EN ESTE PROYECTO NOSOTROS PRESENTAMOS UNA NUEVA METODOLOGÍA PARA LA SELECCIÓN DEL MEJOR MODELO DE DISTRIBUCION POTENCIAL, EN BASE A MULTI-ANALISIS DE COMBINACIONES ALGORITMICAS.
+El objetivo de este proyecto es modelar la distribución del tapir andino (Tapirus pinchaque), mediante tecnicas de modelacion de nichos ecologicos.
+En este proyetco nosotros presentamos una nueva metodología para la selección del mejor modelo de distribución potencial, en base a un multi-analisis de combinaciones algoritmicas.
+
+
 
 
